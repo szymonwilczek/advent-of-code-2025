@@ -8,3 +8,6 @@ add_definitions(-DINPUT_DIR="${CMAKE_SOURCE_DIR}/inputs/")
 
 add_executable(day01 src/day01/day01.c)
 add_executable(day01-part2 src/day01/day01-part2.c)
+add_executable(day02 src/day02/day02.c)
+add_executable(day02-part2 src/day02/day02-part2.c)
+
