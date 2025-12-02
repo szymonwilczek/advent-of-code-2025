@@ -14,7 +14,7 @@ int main() {
 
   FILE *file = fopen(filepath, "r");
   if (!file) {
-    perror("Nie udalo sie otworzyc pliku wejsciowego");
+    perror("Could not open input file");
     return 1;
   }
 
