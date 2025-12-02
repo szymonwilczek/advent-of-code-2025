@@ -2,8 +2,6 @@
 
 Solutions for the [Advent of Code 2025](https://adventofcode.com/2025) challenges written in **C**.
 
-The main goal of this repository is to practice systems programming, memory management, and working with tools like CMake and Neovim in a Linux environment.
-
 ## 🚀 Progress
 
 I will update this whenever I'll finish next days.
