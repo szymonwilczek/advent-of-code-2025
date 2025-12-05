@@ -11,6 +11,9 @@ I will update this whenever I'll finish next days.
 | 01 | Secret Entrance | ⭐ | ⭐ | [Source](src/day01/) |
 | 02 | Gift Shop | ⭐ | ⭐ | [Source](src/day02/) |
 | 03 | Lobby | ⭐ | ⭐ | [Source](src/day03/) |
+| 04 | Printing Department | ⭐ | ⭐ | [Source](src/day04/) |
+| 05 | Cafeteria | ⭐ | ⭐ | [Source](src/day05/) |
+
 
 ## 🛠️ Build & Run
 
