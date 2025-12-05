@@ -18,3 +18,7 @@ add_executable(day02-part2 src/day02/day02-part2.c)
 # Day 03
 add_executable(day03 src/day03/day03.c)
 add_executable(day03-part2 src/day03/day03-part2.c)
+
+# Day 04
+add_executable(day04 src/day04/day04.c)
+add_executable(day04-part2 src/day04/day04-part2.c)
